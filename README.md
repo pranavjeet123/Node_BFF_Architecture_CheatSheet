@@ -1,5 +1,7 @@
 # Node.js BFF Architecture — CheatSheet
 
+![Node BFF Cheatsheet](assets/node-bff-architecture.jpg)
+
 A complete reference on the **Backend for Frontend (BFF)** pattern using Node.js — covering foundational theory, production code patterns, Node-RED as a visual BFF, mobile-specific patterns, and microfrontend integration with Rspack.
 
 ---
